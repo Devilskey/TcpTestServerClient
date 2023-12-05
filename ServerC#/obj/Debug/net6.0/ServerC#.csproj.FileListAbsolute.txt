@@ -1,0 +1,14 @@
+D:\c# Projects\ServerC#\bin\Debug\net6.0\ServerC#.exe
+D:\c# Projects\ServerC#\bin\Debug\net6.0\ServerC#.deps.json
+D:\c# Projects\ServerC#\bin\Debug\net6.0\ServerC#.runtimeconfig.json
+D:\c# Projects\ServerC#\bin\Debug\net6.0\ServerC#.dll
+D:\c# Projects\ServerC#\bin\Debug\net6.0\ServerC#.pdb
+D:\c# Projects\ServerC#\obj\Debug\net6.0\ServerC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# Projects\ServerC#\obj\Debug\net6.0\ServerC#.AssemblyInfoInputs.cache
+D:\c# Projects\ServerC#\obj\Debug\net6.0\ServerC#.AssemblyInfo.cs
+D:\c# Projects\ServerC#\obj\Debug\net6.0\ServerC#.csproj.CoreCompileInputs.cache
+D:\c# Projects\ServerC#\obj\Debug\net6.0\ServerC#.dll
+D:\c# Projects\ServerC#\obj\Debug\net6.0\refint\ServerC#.dll
+D:\c# Projects\ServerC#\obj\Debug\net6.0\ServerC#.pdb
+D:\c# Projects\ServerC#\obj\Debug\net6.0\ServerC#.genruntimeconfig.cache
+D:\c# Projects\ServerC#\obj\Debug\net6.0\ref\ServerC#.dll

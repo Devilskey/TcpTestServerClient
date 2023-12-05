@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Vi5qBfCt188dFvExR8bMAGJpteQdV89Gdo9rM8hd1W9MlVFxS1gtvt2MUWYPaD4H7Q0IVJx6ExXnaEDxzW5fA==",
+  "success": true,
+  "projectFilePath": "D:\\c# Projects\\Clientc#\\Clientc#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecola\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\ecola\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ecola\\.nuget\\packages\\vortice.vulkan\\1.7.9\\vortice.vulkan.1.7.9.nupkg.sha512",
+    "C:\\Users\\ecola\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ecola\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ecola\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ecola\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
